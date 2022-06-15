@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-dropdown-button",
+  "version": "1.0.1",
+  "description": "Responsive Dropdown Button built with Bootstrap 5. Dropdown can be created with the use of a button or link elements.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-dropdown-button.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "dropdown",
+    "responsive-design",
+    "bootstrap-buttons",
+    "bootstrap5",
+    "dropdown-button",
+    "bootstrap5-template"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-dropdown-button/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/dropdown-button/"
+}
